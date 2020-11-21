@@ -9,4 +9,4 @@ Tested with the following package versions:
 - scikit-learn: 0.22.2.post1
 - Weights&Biases: 0.8.32
 
-Download the dataset [here](https://www.kaggle.com/boltzmannbrain/nab).
+Download the Numenta Anomaly Benchmark dataset [here](https://www.kaggle.com/boltzmannbrain/nab).
