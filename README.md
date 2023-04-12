@@ -1,6 +1,6 @@
 # Anomaly detection using a Variational Auto-Encoder
 
-This is a project I started to understand how VAEs could be used to perform anomaly detection. I then fleshed it out with explanations and figures and decided to make it public in the hope that it might help others too. The original notebook was developped on [Kaggle](https://www.kaggle.com/lucfrachon/anomaly-detection-using-vaes).
+This is a project I started to study how VAEs could be used to perform anomaly detection. I then fleshed it out with details and figures and decided to make it public in the hope that it might help others too. The original notebook was developped on [Kaggle](https://www.kaggle.com/lucfrachon/anomaly-detection-using-vaes).
 
 Tested with the following package versions:
 - Pytorch: 1.4.0
